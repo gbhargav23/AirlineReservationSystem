@@ -1,0 +1,51 @@
+body {
+     margin: 0;
+     background: url('../images/eHub-01.jpg');
+     background-size: 1440px 800px;
+     background-repeat:no-repeat;
+    display: compact;
+     font: 13px/18px "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.login-background{
+	position:fixed;
+    top: 50%;
+    left: 50%;
+    width:30em;
+    height:20em;
+    margin-top: -9em; /*set to a negative number 1/2 of your height*/
+    margin-left: -15em; /*set to a negative number 1/2 of your width*/
+    border: 1px solid #ccc;
+    background-color: #f3f3f3;
+    opacity:0.9;
+}
+
+.login{
+	margin: 10%;
+}
+
+.registration-background{
+	position:fixed;
+    top: 45%;
+    left: 45%;
+    width:35em;
+    height:28em;
+    margin-top: -9em; /*set to a negative number 1/2 of your height*/
+    margin-left: -15em; /*set to a negative number 1/2 of your width*/
+    border: 1px solid #ccc;
+    background-color: #f3f3f3;
+    opacity:0.9;
+}
+
+.search-background{
+	position:fixed;
+    top: 38%;
+    left: 43%;
+    width:33em;
+    height:35em;
+    margin-top: -9em; /*set to a negative number 1/2 of your height*/
+    margin-left: -15em; /*set to a negative number 1/2 of your width*/
+    border: 1px solid #ccc;
+    background-color: #f3f3f3;
+    opacity:0.9;
+}
